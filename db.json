@@ -1,5 +1,6 @@
-[
-  {
+{
+"feeds": [
+   {
     "id": "5a918cc1fa37b1efb4a66052",
     "provider": "HotStar",
     "language": "French",
@@ -35693,3 +35694,4 @@
     "content": "Sit velit dolore laborum labore anim laboris ipsum non magna laboris culpa consectetur. Et qui enim duis enim eu aute. Occaecat enim culpa enim exercitation aute ad dolore. Eu occaecat et pariatur dolor Lorem enim labore proident tempor. Velit sit non veniam nulla esse fugiat consequat sunt laborum dolore ut id est est.\r\nConsectetur laboris magna adipisicing irure dolor irure sit quis qui exercitation. Ad cillum laborum aliquip nostrud incididunt esse. Excepteur nostrud ullamco ullamco ea irure non ipsum sint eiusmod esse. Qui nisi culpa sunt deserunt consectetur esse aute amet exercitation Lorem ipsum exercitation est. Duis quis ut dolor incididunt reprehenderit. Aute minim enim ut esse id fugiat.\r\n"
   }
 ]
+}
