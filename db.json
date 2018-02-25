@@ -181,41 +181,6 @@
     "language": "Hindi",
     "feedType": "Audio",
     "content": "906 Nichols Avenue, Tonopah, Illinois, 8490"
-  },
-  {
-    "id": 26,
-    "provider": "HotStar",
-    "language": "English",
-    "feedType": "Photo",
-    "content": "394 Bridge Street, Lisco, Oregon, 9309"
-  },
-  {
-    "id": 27,
-    "provider": "CNN",
-    "language": "English",
-    "feedType": "Text",
-    "content": "928 Evans Street, Carrsville, Pennsylvania, 4411"
-  },
-  {
-    "id": 28,
-    "provider": "HotStar",
-    "language": "English",
-    "feedType": "Text",
-    "content": "305 Bancroft Place, Cuylerville, Texas, 3371"
-  },
-  {
-    "id": 29,
-    "provider": "HotStar",
-    "language": "Hindi",
-    "feedType": "Photo",
-    "content": "962 Ebony Court, Connerton, Oklahoma, 7638"
-  },
-  {
-    "id": 30,
-    "provider": "CNN",
-    "language": "English",
-    "feedType": "Audio",
-    "content": "898 Ovington Avenue, Cobbtown, South Dakota, 6859"
   }
   ]
 }
