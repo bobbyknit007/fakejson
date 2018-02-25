@@ -146,6 +146,41 @@
     "language": "German",
     "feedType": "Text",
     "content": "562 Horace Court, Corriganville, Kansas, 9916"
+  },
+  {
+    "id": 21,
+    "provider": "CNN",
+    "language": "French",
+    "feedType": "Text",
+    "content": "426 Bethel Loop, Fredericktown, Federated States Of Micronesia, 439"
+  },
+  {
+    "id": 22,
+    "provider": "HotStar",
+    "language": "German",
+    "feedType": "Photo",
+    "content": "582 Midwood Street, Westboro, Hawaii, 3733"
+  },
+  {
+    "id": 23,
+    "provider": "HotStar",
+    "language": "Hindi",
+    "feedType": "Audio",
+    "content": "507 Mill Road, Oasis, Massachusetts, 5627"
+  },
+  {
+    "id": 24,
+    "provider": "CNN",
+    "language": "French",
+    "feedType": "Audio",
+    "content": "589 Crooke Avenue, Nicut, Arizona, 9781"
+  },
+  {
+    "id": 25,
+    "provider": "HotStar",
+    "language": "Hindi",
+    "feedType": "Audio",
+    "content": "906 Nichols Avenue, Tonopah, Illinois, 8490"
   }
   ]
 }
